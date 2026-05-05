@@ -1,6 +1,6 @@
-"""Constants for the Yarbo integration."""
+"""Constants for the Yarbo HA integration."""
 
-DOMAIN = "yarbo"
+DOMAIN = "yarboha"
 PLATFORMS = ["sensor", "binary_sensor", "select", "device_tracker", "button", "switch", "number"]
 
 # Config flow

@@ -1,6 +1,6 @@
 {
-  "domain": "yarbo",
-  "name": "Yarbo",
+  "domain": "yarboha",
+  "name": "Yarbo HA",
   "codeowners": ["@nicebay"],
   "config_flow": true,
   "dependencies": [],
